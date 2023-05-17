@@ -31,7 +31,7 @@ int main()
         cout << "Результат : " << addition(a,b) << endl;
         break;
     case 2:
-        cout << "Результат : " << division(a,b) << endl;
+        cout << "Результат : " << subtraction(a,b) << endl;
         break;
     case 3:
         cout << "Результат : " << multiplication(a,b) << endl;
